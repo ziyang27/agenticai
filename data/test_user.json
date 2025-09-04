@@ -1,0 +1,301 @@
+{
+  "profile": {
+    "current_age": 25,
+    "retirement_age": 65,
+    "current_income": 5500,
+    "current_savings": 10000,
+    "risk_tolerance": "Moderate",
+    "inflation_rate": 2.5,
+    "monthly_savings_target": 2500.0
+  },
+  "months": {
+    "january_2024": {
+      "income": {
+        "salary": 2000.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 2000.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 100.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 100.0,
+        "other_expenses": 0.0,
+        "total": 200.0
+      },
+      "savings": {
+        "target": 1100,
+        "actual": 1800.0,
+        "difference": 700.0
+      },
+      "cash_flow": 1800.0,
+      "completed": true
+    },
+    "february_2024": {
+      "income": {
+        "salary": 0.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 0.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 0.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 0.0,
+        "other_expenses": 0.0,
+        "total": 0.0
+      },
+      "savings": {
+        "target": 0.0,
+        "actual": 0.0,
+        "difference": 0.0
+      },
+      "cash_flow": 0.0,
+      "completed": false
+    },
+    "march_2024": {
+      "income": {
+        "salary": 0.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 0.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 0.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 0.0,
+        "other_expenses": 0.0,
+        "total": 0.0
+      },
+      "savings": {
+        "target": 0.0,
+        "actual": 0.0,
+        "difference": 0.0
+      },
+      "cash_flow": 0.0,
+      "completed": false
+    },
+    "april_2024": {
+      "income": {
+        "salary": 0.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 0.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 0.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 0.0,
+        "other_expenses": 0.0,
+        "total": 0.0
+      },
+      "savings": {
+        "target": 0.0,
+        "actual": 0.0,
+        "difference": 0.0
+      },
+      "cash_flow": 0.0,
+      "completed": false
+    },
+    "may_2024": {
+      "income": {
+        "salary": 0.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 0.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 0.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 0.0,
+        "other_expenses": 0.0,
+        "total": 0.0
+      },
+      "savings": {
+        "target": 0.0,
+        "actual": 0.0,
+        "difference": 0.0
+      },
+      "cash_flow": 0.0,
+      "completed": false
+    },
+    "june_2024": {
+      "income": {
+        "salary": 0.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 0.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 0.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 0.0,
+        "other_expenses": 0.0,
+        "total": 0.0
+      },
+      "savings": {
+        "target": 0.0,
+        "actual": 0.0,
+        "difference": 0.0
+      },
+      "cash_flow": 0.0,
+      "completed": false
+    },
+    "july_2024": {
+      "income": {
+        "salary": 0.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 0.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 0.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 0.0,
+        "other_expenses": 0.0,
+        "total": 0.0
+      },
+      "savings": {
+        "target": 0.0,
+        "actual": 0.0,
+        "difference": 0.0
+      },
+      "cash_flow": 0.0,
+      "completed": false
+    },
+    "august_2024": {
+      "income": {
+        "salary": 0.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 0.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 0.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 0.0,
+        "other_expenses": 0.0,
+        "total": 0.0
+      },
+      "savings": {
+        "target": 0.0,
+        "actual": 0.0,
+        "difference": 0.0
+      },
+      "cash_flow": 0.0,
+      "completed": false
+    },
+    "september_2024": {
+      "income": {
+        "salary": 0.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 0.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 0.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 0.0,
+        "other_expenses": 0.0,
+        "total": 0.0
+      },
+      "savings": {
+        "target": 0.0,
+        "actual": 0.0,
+        "difference": 0.0
+      },
+      "cash_flow": 0.0,
+      "completed": false
+    },
+    "october_2024": {
+      "income": {
+        "salary": 0.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 0.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 0.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 0.0,
+        "other_expenses": 0.0,
+        "total": 0.0
+      },
+      "savings": {
+        "target": 0.0,
+        "actual": 0.0,
+        "difference": 0.0
+      },
+      "cash_flow": 0.0,
+      "completed": false
+    },
+    "november_2024": {
+      "income": {
+        "salary": 0.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 0.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 0.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 0.0,
+        "other_expenses": 0.0,
+        "total": 0.0
+      },
+      "savings": {
+        "target": 0.0,
+        "actual": 0.0,
+        "difference": 0.0
+      },
+      "cash_flow": 0.0,
+      "completed": false
+    },
+    "december_2024": {
+      "income": {
+        "salary": 0.0,
+        "investment": 0.0,
+        "other_income": 0.0,
+        "total": 0.0
+      },
+      "expenses": {
+        "rent": 0.0,
+        "groceries": 0.0,
+        "transportation": 0.0,
+        "utilities": 0.0,
+        "entertainment": 0.0,
+        "other_expenses": 0.0,
+        "total": 0.0
+      },
+      "savings": {
+        "target": 0.0,
+        "actual": 0.0,
+        "difference": 0.0
+      },
+      "cash_flow": 0.0,
+      "completed": false
+    }
+  }
+}
