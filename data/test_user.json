@@ -1,12 +1,12 @@
 {
   "profile": {
-    "current_age": 25,
-    "retirement_age": 65,
-    "current_income": 5500,
-    "current_savings": 10000,
-    "risk_tolerance": "Moderate",
-    "inflation_rate": 2.5,
-    "monthly_savings_target": 2500.0
+    "current_age": 22,
+    "retirement_age": 70,
+    "current_income": 2000,
+    "current_savings": 5000,
+    "risk_tolerance": "Conservative",
+    "inflation_rate": 1.9999999999999996,
+    "monthly_savings_target": 1000.0
   },
   "months": {
     "january_2024": {
@@ -35,51 +35,51 @@
     },
     "february_2024": {
       "income": {
-        "salary": 0.0,
+        "salary": 3000.0,
         "investment": 0.0,
         "other_income": 0.0,
-        "total": 0.0
+        "total": 3000.0
       },
       "expenses": {
         "rent": 0.0,
-        "groceries": 0.0,
+        "groceries": 50.0,
         "transportation": 0.0,
         "utilities": 0.0,
         "entertainment": 0.0,
         "other_expenses": 0.0,
-        "total": 0.0
+        "total": 50.0
       },
       "savings": {
-        "target": 0.0,
-        "actual": 0.0,
-        "difference": 0.0
+        "target": 2500.0,
+        "actual": 2950.0,
+        "difference": 450.0
       },
-      "cash_flow": 0.0,
-      "completed": false
+      "cash_flow": 2950.0,
+      "completed": true
     },
     "march_2024": {
       "income": {
-        "salary": 0.0,
-        "investment": 0.0,
+        "salary": 2000.0,
+        "investment": 100.0,
         "other_income": 0.0,
-        "total": 0.0
+        "total": 2100.0
       },
       "expenses": {
         "rent": 0.0,
-        "groceries": 0.0,
-        "transportation": 0.0,
+        "groceries": 50.0,
+        "transportation": 100.0,
         "utilities": 0.0,
-        "entertainment": 0.0,
-        "other_expenses": 0.0,
-        "total": 0.0
+        "entertainment": 100.0,
+        "other_expenses": 50.0,
+        "total": 300.0
       },
       "savings": {
-        "target": 0.0,
-        "actual": 0.0,
-        "difference": 0.0
+        "target": 400.0,
+        "actual": 1800.0,
+        "difference": 1400.0
       },
-      "cash_flow": 0.0,
-      "completed": false
+      "cash_flow": 1800.0,
+      "completed": true
     },
     "april_2024": {
       "income": {

@@ -37,9 +37,9 @@ def render_savings_recommender():
             st.metric("Recommended Monthly Savings", f"${recommended_monthly:,.2f}")
         
         # User can adjust the target
-        monthly_target = st.number_input("Your Monthly Savings Target ($)", min_value=0, 
-                                    value=profile.get("monthly_savings_target", int(recommended_monthly)), 
-                                    step=100)
+        monthly_target = st.number_input("Your Monthly Savings Target ($)", min_value=0.0, 
+                                    value=profile.get("monthly_savings_target", float(recommended_monthly)), 
+                                    step=100.0)
         
         if st.form_submit_button("Save Profile & Target"):
             updated_profile = {
